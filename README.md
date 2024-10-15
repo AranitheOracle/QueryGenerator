@@ -25,8 +25,8 @@ This project uses state-of-the-art (SOTA) models to align user queries with info
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/AranitheOracle/QueryGenerator.git
+cd QueryGenerator
 ```
 
 ### 2. Install the requirements
